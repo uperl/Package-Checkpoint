@@ -61,6 +61,8 @@ like subroutines or file handles.
 
 =item L<Package::Stash>
 
+=item L<Package::Checkpoint>
+
 =back
 
 =cut
