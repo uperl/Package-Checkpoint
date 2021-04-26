@@ -60,6 +60,7 @@ like subroutines or file handles.
 # SEE ALSO
 
 - [Package::Stash](https://metacpan.org/pod/Package::Stash)
+- [Package::Checkpoint::Guard](https://metacpan.org/pod/Package::Checkpoint::Guard)
 
 # AUTHOR
 
