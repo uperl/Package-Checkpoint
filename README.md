@@ -1,4 +1,4 @@
-# Package::Checkpoint [![Build Status](https://travis-ci.org/uperl/Package-Checkpoint.svg?branch=main)](https://travis-ci.org/uperl/Package-Checkpoint) ![linux](https://github.com/uperl/Package-Checkpoint/workflows/linux/badge.svg) ![windows](https://github.com/uperl/Package-Checkpoint/workflows/windows/badge.svg) ![macos](https://github.com/uperl/Package-Checkpoint/workflows/macos/badge.svg) ![cygwin](https://github.com/uperl/Package-Checkpoint/workflows/cygwin/badge.svg) ![msys2-mingw](https://github.com/uperl/Package-Checkpoint/workflows/msys2-mingw/badge.svg)
+# Package::Checkpoint ![linux](https://github.com/uperl/Package-Checkpoint/workflows/linux/badge.svg) ![windows](https://github.com/uperl/Package-Checkpoint/workflows/windows/badge.svg) ![macos](https://github.com/uperl/Package-Checkpoint/workflows/macos/badge.svg) ![cygwin](https://github.com/uperl/Package-Checkpoint/workflows/cygwin/badge.svg) ![msys2-mingw](https://github.com/uperl/Package-Checkpoint/workflows/msys2-mingw/badge.svg)
 
 Checkpoint the scalar, array and hash values in a package for later restoration
 
