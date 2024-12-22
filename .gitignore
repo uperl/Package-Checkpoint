@@ -2,4 +2,7 @@ Package-Checkpoint-*
 /.build/
 *.swp
 
-
+/Package-Checkpoint-*
+/.build
+*.old
+*.orig
